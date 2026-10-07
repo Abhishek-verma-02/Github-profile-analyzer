@@ -4,7 +4,7 @@ A **React.js web application** that analyzes GitHub profiles using the **GitHub 
 Users can search any GitHub username and instantly view profile information, repository data, language statistics, and contribution insights.
 
 🔗 **Live Demo**
-https://splendid-snickerdoodle-c1d25d.netlify.app
+https://github-profile-analyzer-abhi.netlify.app
 
 ---
 
